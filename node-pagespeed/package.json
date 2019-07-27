@@ -1,0 +1,20 @@
+{
+  "name": "node-pagespeed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "delay": "^2.0.0",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.0.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
