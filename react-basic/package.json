@@ -4,7 +4,7 @@
   "homepage": "https://marinovich.github.io/react-test",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "^16.2.0",
     "react-dom": "^16.2.1",
     "react-redux": "^5.0.6",
